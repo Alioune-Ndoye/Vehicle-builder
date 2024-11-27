@@ -126,6 +126,9 @@ You are required to submit the following for review:
 
 * A walkthrough video that demonstrates the functionality of the application.
 
+https://app.screencastify.com/v2/manage/videos/ek19sSAotC1KSF4dJEzI
+
+
 * The URL of the GitHub repository, with a unique name and a README describing the project.
 
 ---
